@@ -1,61 +1,21 @@
-- 👋 Hi, I’m Ahmed Adel
-- 🌱 I’m currently learning Flutter Development
-- 💞️ I’m looking to collaborate on develop new apps
-- 📫 How to reach me a7mad.3adel9@gmail.com
+<h1 align="center">Hi 👋, I'm Ahmed Adel</h1>
+<h3 align="center">Flutter Developer</h3>
 
-Connect with me:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedadel099" alt="ahmedadel099" /></a> </p>
 
-tharwat-samy-363aa7177/ tharwat samy LightAcademy1
+- 🌱 I’m currently learning **flutter Development**
 
-Udemy 
+- 📫 How to reach me **a7mad.3adel9@gmail.com**
 
-Account : https://bit.ly/3zFCm3O
-Flutter Course for begginers [in arabic] : https://bit.ly/3PlgzDZ
-Bloc Pattern Course [in arabic] : https://bit.ly/3RUQRIp
-Samples from my projects 
+- ⚡ Fun fact **always learning**
 
-Cheetah
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/abo3deldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abo3deldev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-adel-0148851a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-adel-0148851a2/" height="30" width="40" /></a>
+</p>
 
-Cheetah App is your local guide to display advertisements and offers of shops
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-Google Play App Store
-
-Dalilkom
-
-Dalilkom is a unique application that aims to facilitate daily life by providing services locations, features, dates and offers it contains more than 52000 place where you can view the detail of every place
-
-Google Play App Store
-
-AlsannaHome
-
-AlsannaHouse can help You get everything you need for the least price you can find
-
-Google Play App Store
-
-Madarskm
-
-The schedule gives you opportunities to view the schedule And the latest news, operations, lessons and school fees Also, any teacher can communicate through the application or write to the administration
-
-Google Play App Store
-
-Education Experts
-
-Education Experts is an app for Teaching online, Teachers can register in the app for free and start receiving students. the app makes it easy for the student to search for the appropriate teacher the app provides ratings and reviews for each teacher to make it easy for students to choose a suitable teacher
-
-Google Play App Store
-
-Doctor'sClincs
-
-An application that helps you book appointments with distinguished doctors
-
-Google Play App Store
-
-Volar
-
-An application for selling and displaying electronic products
-
-Google Play App Store
-
-Languages and Tools:
-
- android  dart  django  figma  firebase  flutter  graphql  html5  java  javascript  kotlin  mongodb  mysql  nodejs  postgresql  python  typescript  xd
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedadel099&show_icons=true&locale=en" alt="ahmedadel099" /></p>
