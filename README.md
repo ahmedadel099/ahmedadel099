@@ -47,7 +47,7 @@
 <p dir="auto">SEA Hajj App  dedicated to tawafa pilgrims from Southeast Asian countries that allows them to carry out some tasks related to serving pilgrims and tasks related to the institution.</p>
 
 <p dir="auto">
-  <a href="[https://play.google.com/store/apps/details?id=com.app.cheetah](https://play.google.com/store/apps/details?id=org.seahajj.SEAHajjMobileApp&pcampaignid=web_share)" rel="nofollow">
+  <a href="https://play.google.com/store/apps/details?id=org.seahajj.SEAHajjMobileApp&pcampaignid=web_share" rel="nofollow">
     <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" style="max-width: 100%;">
   </a>
   <a href="https://apps.apple.com/eg/app/sea-hajj/id6449883376" rel="nofollow">
