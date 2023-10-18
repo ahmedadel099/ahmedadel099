@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ahmedadel099
-- 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning flutter && odoo
+- 👋 Hi, I’m Ahmed Adel
+- 🌱 I’m currently learning Flutter Development
 - 💞️ I’m looking to collaborate on develop new apps
-- 📫 How to reach me ...
+- 📫 How to reach me a7mad.3adel9@gmail.com
 
 <!---
 ahmedadel099/ahmedadel099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
